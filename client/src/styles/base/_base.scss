@@ -1,0 +1,16 @@
+html,body {
+    height: 100%;
+    background-color: rgba(14,14,30,1);
+    background: linear-gradient(to right, #0b0b18 0%, #151a34 100%);
+    font-family: 'Raleway', sans-serif;
+}
+
+
+button {
+    cursor: pointer;
+}
+
+button:disabled {
+    cursor: default;
+}
+
